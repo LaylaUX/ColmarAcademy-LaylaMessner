@@ -472,7 +472,7 @@ footer ul li {
   }
 }
 
-@media only screen and (max-width: 1500px) and (orientation: portrait) {
+@media only screen and (max-width: 900px), (max-width: 1500px) and (orientation: portrait) {
   .desktop {
     display: none;
   }
