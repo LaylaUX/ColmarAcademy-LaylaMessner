@@ -466,6 +466,10 @@ footer ul li {
   .subjects {
     justify-content: space-around;
   }
+
+  .subject {
+    width: 40%;
+  }
 }
 
 @media only screen and (max-width: 900px) {
