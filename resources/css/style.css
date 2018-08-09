@@ -597,6 +597,6 @@ footer ul li {
   }
 
   .video-placeholder {
-    max-height: 300px;
+    max-height: 400px;
   } /* Placeholder rule. Remove when replaced by actual video. */
 }
