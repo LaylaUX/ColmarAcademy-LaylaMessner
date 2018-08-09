@@ -197,12 +197,12 @@ nav a {
   bottom: 3px;
 }
 
-.desktop nav  a:hover {
+nav.desktop  a:hover {
   color: rgba(77,0,38,1);
   background-color: rgba(255,255,255,0.5);
 }
 
-.desktop nav a:active {
+nav.desktop a:active {
   background-color: rgba(255,255,255,1);
   font-weight: 600;
 }
